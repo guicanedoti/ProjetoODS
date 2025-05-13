@@ -18,10 +18,6 @@ Tudo isso de forma intuitiva, acessível e com linguagem inclusiva, para engajar
 - SQLite (ou PostgreSQL)
 - Git & GitHub
 
-## 📸 Animações / Demonstrações
-
-Você pode adicionar animações ou figurinhas (GIFs) ao README usando o seguinte formato:
-
 ## 👨‍💻 Desenvolvedores
 - Guilherme Canedo Santos - 35863161
 - Allana de Jesus Siqueira - 35071206
